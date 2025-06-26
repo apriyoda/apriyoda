@@ -26,7 +26,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=araay3023&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=apriyoda&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araay3023&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
@@ -40,5 +40,5 @@
 ---
 
 ### 🔗 Let's Connect!
-[![Instagram](https://img.shields.io/badge/@araay-blue?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![LinkedIn](https://img.shields.io/badge/Araay-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/@apriyoda-blue?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/Apriyoda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
