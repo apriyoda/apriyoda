@@ -34,7 +34,7 @@
 
 ### 📊 GitHub Metrics (Auto Update)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/araay3023/araay3023/main/github-metrics.svg" alt="Metrics" />
+  <img src="https://raw.githubusercontent.com/apriyoda/apriyoda/main/github-metrics.svg" alt="Metrics" />
 </p>
 
 ---
